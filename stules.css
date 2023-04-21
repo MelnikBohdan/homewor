@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Ubuntu:wght@300&display=swap');
+.ul1 {
+    font-family: "playfair display";
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 19px;
+}
+
+.p1 {
+    font-family: "ubuntu";
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+}
+
+.h1 {
+    font-family: "playfair display";
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 40px; 
+}
+
+.text {
+    font-family: "playfair display";
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 19px;
+}
